@@ -1,4 +1,6 @@
-This is a starter template for [Ionic](http://ionicframework.com/docs/) projects.
+#Task list
+
+This is a project developed to learn and test ionic. 
 
 ## How to use this template
 
